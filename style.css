@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(238, 191, 39, 0.849);
+}
+
+#one {
+    margin-left: 295px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: solid 5px;
+    border-color: rgb(44, 43, 43);
+}
+.text{
+    text-align: center;
+    text-decoration: double;
+}
+#line{
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    color: black;
+    border: solid 2px;
+}
